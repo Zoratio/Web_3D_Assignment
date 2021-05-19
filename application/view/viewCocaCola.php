@@ -373,7 +373,7 @@
               <div class="navbar-text float-right social">
                   <a href="https://www.facebook.com/cocacolaGB/?brand_redir=40796308305" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
                   <a href="https://twitter.com/CocaCola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-                  <a href="https://github.com/Zoratio" target="_blank"><i class="fab fa-github-square fa-2x"></i></a><!-- link this to my github -->
+                  <a href="https://github.com/Zoratio/Web_3D_Assignment" target="_blank"><i class="fab fa-github-square fa-2x"></i></a><!-- link this to my github -->
               </div>
           </div>
       </nav> 
