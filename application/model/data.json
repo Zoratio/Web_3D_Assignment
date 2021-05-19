@@ -1,0 +1,63 @@
+{
+    "pageTextData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded in 1886 Dr John S Pemberton",		
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+		},
+		{
+			"title": "Coca Cola",
+			"subTitle": "New York Harbour, 1886",		
+			"description": "It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special!"
+		},
+		{
+			"title": "Sprite",
+			"subTitle": "West Germany, 1959",		
+			"description": "First introduced in 1961, crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+		},
+		{
+			"title": "Appletiser",
+			"subTitle": "South Africa, 1966",		
+			"description": "Appletiser is a sparkling fruit juice created by blending fruit juice with carbonated water. It was created in 1966 in Elgin Valley, Western Cape, South Africa, by French-Italian immigrant Edmond Lombardi. For export and out of season, the juice is concentrated by extracting the aroma and the water from it."
+		},
+		{
+			"x3dModelTitle": "Coca Cola X3D Model",
+			"x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "History of Coca Cola",
+			"subTitle": "Atlanta Beginnings",		
+			"description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass."
+		},
+		{
+			"x3dModelTitle": "Sprite X3D Model",
+			"x3dCreationMethod": "This X3D model of the sprite bottle has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Sprite — Fanta Klare Zitrone",
+			"subTitle": "First introduced in 1961",		
+			"description": "Crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of Coca Cola's no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+		},
+        {
+			"x3dModelTitle": "Appletiser X3D Model",
+			"x3dCreationMethod": "This X3D model of the appletiser glass bottle has been created in C4d, exported to 3ds Max to create non-photorealistic glass, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Appletiser - Crown The Moment",
+			"subTitle": "Apple juice from concentrate",		
+			"description": "Appletiser is made with gently sparkling 100% apple juice. 150ml officially counts as one of your 5-a-day, Appletiser makes any meal more Appletising. Serve chilled, store in a cool and dry place. No added preservatives, sparkling apple juice from concentrate."
+		},
+		{
+			"galleryTitle": "3ds & C4D Images",
+			"galleryDescription": "These images are from my models made in 3ds Max 2017 and Maxon Cinema 4D 23"
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		},
+		{
+			"AboutTitle": "What I did extra to the webpage:",
+			"AboutText": "CocaCola logo links to the homepage. Restyled to website. Nav buttons class ‘active’ now updates to display the actual open page. Flickr web service tool as a search feature.  Added a video to the about page (text gotten through getJsonData.js). All links that take you outside of the website (eg github and coca cola website) will open in a new tab instead. Created links to company websites for footer social icons. Also removed Google+ as it has been shut down. When downloading the x3d models, make sure to unzip the folder first to see them with materials - also, the animations will not work when downloaded as it's enabled throught the website code.",
+			"AboutTitle2": "Below are the 'going beyond' marks I would like to claim (20/25 total marks):",
+			"AboutText2": "+5 for improved model geometry from labs (evidence in gallery). +5 for additional software as the Appletiser model was made in C4D (evidence in gallery). +5 for different workflow because of using another modeling software, the workflow was different because trying to get this working back into the website was not taught and took a lot of independently taught changes. +5 for codebase and 3D models archives on GitHub as stated in the assignment brief"
+		},
+		{
+			"title2": "Welcome to my website:",
+			"subTitle2": "This website will detail 3 drinks from the Coca Cola brand. There will also be a page to view these drinks in a 3D interactable space! Check out the About page to see all the additional work that has gone into it outside of the labs..."
+		}
+	]
+}
